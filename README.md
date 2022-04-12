@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berkerozatik
-- 👀 I’m interested in mobile and web development add. OOP.
+- 👋 Hi, I’m Berker!
+- 👀 I’m interested in mobile and web development add. OOP and I'm working for a company as a Software Development Executive.
 - 🌱 I’m currently learning mobile development.
 - 📫 How to reach me: oscarrcodes@gmail.com or this website!
