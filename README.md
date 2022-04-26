@@ -6,7 +6,7 @@ Software Development Executive
 
 I've been learning to code for 10 years. I have experienced on these programming languages. (Skills Section)
 
-* 🌍  I'm based in Istanbul, Turkey
+* 🌍  I'm based in Somewhere in the World.
 * ✉️  You can contact me at [oscarrcodes@gmail.com](mailto:oscarrcodes@gmail.com)
 * 🧠  I'm learning Flutter, Dart
 * 🤝  I'm open to collaborating on flutter projects, mobile development.
