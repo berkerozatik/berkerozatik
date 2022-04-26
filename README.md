@@ -39,7 +39,7 @@ I've been learning to code for 10 years. I have experienced on these programming
                                 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
                     </p>
                     
- ### Socials
+ Socials
  <p align="left">
                           
                       <a href="https://www.github.com/berkerozatik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
