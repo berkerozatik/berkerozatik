@@ -1,4 +1,4 @@
-Hi 👋 My name is Burak Berker ÖZATİK
+Hi 👋 My name is Burak Berker ÖZATİK(OscarrCodes)
 ====================================
 
 Software Development Executive
